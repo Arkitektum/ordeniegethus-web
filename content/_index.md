@@ -7,3 +7,5 @@ description: "Orden i eget hus - i praksis"
 
 ## Kort om prosjektet
 Her kommer mer informasjon om prosjektet
+
+Utvikles av [Arkitektum AS](http://arkitektum.no)
