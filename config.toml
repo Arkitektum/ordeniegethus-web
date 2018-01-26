@@ -1,0 +1,31 @@
+baseURL = "/"
+languageCode = "nb-no"
+DefaultContentLanguage = "nb"
+
+title = "Orden i eget hus - i praksis"
+theme = "docdock"
+pygmentsCodeFences = true
+pygmentsStyle = "monokailight"
+
+[params]
+#editURL = "https://github.com/arkitektum/ordeniegethus/edit/master/exampleSite/content/"
+showVisitedLinks = false # default is false
+themeStyle = "original" # "original" or "flex" # default "original"
+themeVariant = "" # choose theme variant "green", "gold" , "gray", "blue" (default)
+ordersectionsby = "weight" # ordersectionsby = "title"
+disableHomeIcon = true # default is false
+disableSearch = true # default is false
+disableNavChevron = true # set true to hide next/prev chevron, default is false
+highlightClientSide = false # set true to use highlight.pack.js instead of the default hugo chroma highlighter
+
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+
+[[menu.shortcuts]]
+pre ="<h3>Lenker</h3>"
+name = "<i class='fa fa-github'></i> Kildekode"
+identifier = "ds"
+url = "https://github.com/arkitektum/ordeniegethus"
+weight = 10
