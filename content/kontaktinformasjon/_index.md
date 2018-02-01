@@ -3,5 +3,10 @@ title: "Kontaktinformasjon"
 date: 2018-01-25T11:02:47+01:00
 ---
 
+**Kontaktinfo:** 
 
-Erling Rønnekleiv, <erlend@tkas.no>, tlf. 99166419.
+Prosjektleder Erling Rønnekleiv , <erling@tkas.no>, telefon +47 99166419
+
+![Erling Rønnekleiv](/images/erling_tkas_small.jpg)
+
+Styringssystemet utvikles av [Arkitektum AS](http://arkitektum.no) på oppdrag fra kommuneregionene.
