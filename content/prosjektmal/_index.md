@@ -6,9 +6,9 @@ date: 2018-01-26T15:53:32+01:00
 Prosjektet skal utvikle et styringssystem eid av kommunene for å forvalte applikasjonsarkitekturen (APM - Application Portfolio Management). 
 
 For kommunene er prosjektet viktig for å skaffe seg oversikt over egne data, og for å kunne svare på utfordringene i det statlige "Orden i eget hus" - prosjektet
-(som bl. a. er basert på Digitaliseringsrundskrivet fra kommunal- og moderninseringsdepartmentet). 
+som bl. a. er basert på Digitaliseringsrundskrivet fra kommunal- og moderninseringsdepartmentet. 
 
-Samtidig er det viktig for kommunene å få oversikt over personsensitive data for å følge opp den nye personvernforordningen fra EU som trer i kraft i mai 2018.
+Samtidig er det viktig for kommunene å få oversikt over personsensitive data for å følge opp den nye personvernforordningen fra EU som trer i kraft i mai 2018 (GDPR).
 Prosjektet vil kunne føre til økt lederkunnskap og bevissthet om informasjonsforvaltning for å tilrettelegge for digitalisering, automatisering, heldigitale løsninger og god informasjonssikkerhet.
 
 <br>
