@@ -23,6 +23,3 @@ Vi lager et felles...
 ...visualisering av analyser for ledelsen – tilrettelegge for strategiske beslutninger.
 
 ![Visualisering](/images/visualisering.png)
-
-
-sgsdgfv
