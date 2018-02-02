@@ -25,7 +25,7 @@ home = [ "HTML", "RSS", "JSON"]
 
 [[menu.shortcuts]]
 pre ="<h3>Lenker</h3>"
-name = "<i class='fa fa-github'></i> Kildekode"
+name = "difi - orden i eget hus"
 identifier = "ds"
-url = "https://github.com/arkitektum/ordeniegethus"
+url = "https://www.difi.no/fagomrader-og-tjenester/digitalisering-og-samordning/nasjonal-arkitektur/informasjonsforvaltning/veileder-orden-i-eget-hus"
 weight = 10
