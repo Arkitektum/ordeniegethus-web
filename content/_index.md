@@ -5,9 +5,26 @@ description: "Orden i eget hus - i praksis"
 
 # Orden i eget hus - i praksis
 
-![difi trappetrinnsmodell](/images/trappemodell_inforforvaltning.png) *Direktoratet for Forvaltning og IKT sin trappetrinnsmodell. Nivå 0 er utgangspunktet for dette prosjektet*
-
+<!--  la til HTML for å plassere bildet til venstre ![difi trappetrinnsmodell](/images/trappemodell_inforforvaltning.png)  -->
+<img src ="/images/trappemodell_inforforvaltning.png" align="left" alt="Erling Rønnekleiv"></img>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+*Direktoratet for Forvaltning og IKT sin trappetrinnsmodell. Nivå 0 er utgangspunktet for dette prosjektet*
+
 
 I dag opplever mange kommuner at det er utfordrende å holde oversikt over programvaren de bruker og data som forvaltes. 
 Forholdet mellom applikasjoner og de 188 lovpålagte tjenestene er i noen tilfeller gjemt i regneark eller tilsvarende, og behovet for å få oversikt er stort. 
