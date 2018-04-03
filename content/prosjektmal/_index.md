@@ -2,8 +2,10 @@
 title: "Prosjektmål"
 date: 2018-01-26T15:53:32+01:00
 ---
+<img src ="/images/kommuner Telemark.PNG" align="left" alt="kommuner i Telemark" style="border-style:solid; border-width:0px 20px 0px 0px; border-color:white;"></img>
 
-Prosjektet skal utvikle et styringssystem eid av kommunene for å forvalte applikasjonsarkitekturen (APM - Application Portfolio Management). 
+
+Prosjektet utvikler et styringssystem eid av kommunene for å forvalte applikasjonsarkitekturen (APM - Application Portfolio Management). Løsningen tar sikte på å dekke behovet for registrering og oversikt over applikasjoner og datasett i kommuner av ulik størrelse.
 
 For kommunene er prosjektet viktig for å skaffe seg oversikt over egne data, og for å kunne svare på utfordringene i det statlige "Orden i eget hus" - prosjektet
 som bl. a. er basert på Digitaliseringsrundskrivet fra kommunal- og moderninseringsdepartmentet. 
