@@ -14,6 +14,11 @@ Samtidig er det viktig for kommunene å få oversikt over personsensitive data f
 Prosjektet vil kunne føre til økt lederkunnskap og bevissthet om informasjonsforvaltning for å tilrettelegge for digitalisering, automatisering, heldigitale løsninger og god informasjonssikkerhet.
 
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 **Prosjektet skal føre til:**
 
