@@ -20,7 +20,7 @@ Utvikling av løsning skjer i en smidig prosess som avstemmes fortløpende med p
 
 ●	KS skriver på en veileder for kommunenes tilpasning til et modernisert folkeregister. Dette krever tilsvarende kartlegging som denne løsningen ivaretar. Og indikerer enda større gevinstpotensiale for kommunene. Kartlegging av avhengighet til folkeregisterdata må ivaretas i løsningen.
 
-●	Det er hensiktsmessig å tjenesteorientere registrering av applikasjoner, datasett og personopplysninger. Kommunene ønsker dette standardisert og vi velger å benytte KOSTRA sin tjeneste inndeling.
+●	Det er hensiktsmessig å tjenesteorientere registrering av applikasjoner, datasett og personopplysninger. Kommunene ønsker dette standardisert.
 
 ●	GDPR fristene har satt fokus på personopplysninger og kommunens arbeid med dette. Behovene for kartlegging, begrunnelser og oversikt ivaretas derfor i det som nå utvikles.
 
