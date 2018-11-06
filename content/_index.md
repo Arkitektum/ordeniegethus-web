@@ -1,31 +1,18 @@
 ---
+
 title: "Orden i eget hus - i praksis"
 description: "Orden i eget hus - i praksis"
+
 ---
 
 # Orden i eget hus - i praksis
 
-<!--  la til HTML for å plassere bildet til venstre ![difi trappetrinnsmodell](/images/trappemodell_inforforvaltning.png)  -->
-<img src ="/images/trappemodell_inforforvaltning.png" align="left" alt="Erling Rønnekleiv"></img>
+<!--  la til HTML for å plassere bildet til venstre ![difi trappetrinnsmodell](/images/orden logo.png)  -->
+<img src ="/images/rollup.png" align="left" alt="Orden i eget hus - i praksis" style="border:20px solid white"></img>
 <br>
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-*Direktoratet for Forvaltning og IKT sin trappetrinnsmodell. Nivå 0 er utgangspunktet for dette prosjektet*
-
-
 I dag opplever mange kommuner at det er utfordrende å holde oversikt over programvaren de bruker og data som forvaltes. 
 Forholdet mellom applikasjoner og de 188 lovpålagte tjenestene er i noen tilfeller gjemt i regneark eller tilsvarende, og behovet for å få oversikt er stort. 
 Det eksisterer et gevinstpotensiale internt i hver kommune, og potensialet for synergier mellom kommuner er vesentlig.
@@ -34,8 +21,8 @@ Det er derfor initiert et felles utviklingsprosjekt mellom Kongsbergregionen, Mi
 Målet er å få på plass et styringssystem som omfatter applikasjonsarkitektur, og som gir et solid grunnlag for å kunne foreta strategiske beslutninger på ledelsesnivå.
 
 Direktoratet for forvaltning og IKT (difi) har utgitt veilederen "orden i eget hus" med tilhørende modenhetsmodell.
-Prosjektet vårt tar sikte på å møte mange av utfordringene knyttet til åpne data, publisering av datasett og den nye personvernforordningen fra EU.
+Prosjektet  tar sikte på å møte mange av utfordringene knyttet til åpne data, publisering av datasett og den nye personvernforordningen fra EU (GDPR).
 
-
-
-
+<br>
+<br>
+<br>
