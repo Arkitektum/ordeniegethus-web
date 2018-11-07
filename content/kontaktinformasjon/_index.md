@@ -19,7 +19,7 @@ Styringssystemet utvikles av <a href ="http://arkitektum.no" target="_blank">Ark
 
 **Økonomi:**
 
-Kommunene som har utviklet første fase har fastsatt en modell for deling av kostna|der med nye kommuer som ønsker å ta løsningen i bruk med følgende prismodell:
+Kommunene som har utviklet første fase har fastsatt en modell for deling av kostnader med nye kommuner som ønsker å ta løsningen i bruk med følgende prismodell:
 
 Tilkoblingskostnad nye kommuner (går til videreutvikling av løsningen):
 
