@@ -41,6 +41,8 @@ date: 2018-01-26T15:53:32+01:00
 <br>
 <br>
 <br>
+<br>
+<br>
 
 **Skjermbilde fra løsningen som viser hvordan applikasjoner, datasett og felleskomponenter henger sammen:**
 <img src ="/images/arkitektur.png" align="left" alt="eksempel fra løsningen: Arkitektur"></img>
