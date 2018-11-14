@@ -19,8 +19,8 @@ date: 2018-01-26T15:53:32+01:00
 <br>
 <br>
 <br>
-*Direktoratet for Forvaltning og IKT sin trappetrinnsmodell. Nivå 0 er utgangspunktet for dette prosjektet:*
-<img src ="/images/trappemodell_inforforvaltning.png" align="right" alt="Orden i eget hus - i praksis"></img>
+*Direktoratet for forvaltning og IKT sin 3-stegs trappetrinnsmodell med tillegg av nivå 0, som er utgangspunktet for Orden i eget Hus - i praksis*
+<img src ="/images/trapp_niva0.png" align="right" alt="Orden i eget hus - i praksis"></img>
 
 **Det er definert følgende gevinstpotensialer for kommunene som samarbeider om løsningen:**
 

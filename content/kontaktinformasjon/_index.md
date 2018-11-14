@@ -28,7 +28,7 @@ Tilkoblingskostnad nye kommuner (går til videreutvikling av løsningen):
 * Mellom 10000 og 25000 innbyggere kr 70 000
 * Over 25000 innbyggere kr 100 000
  
-For å dekke løpende årlig drift av løsningen er det beregnet en kostnadsmodell som medfører kr 6000 fast pr kommune og kr 1,50 pr innbygger. Årlig kostnad blir fordelt etter selvkostprinsippet.
+For å dekke løpende årlig drift av løsningen er det beregnet en foreløpig kostnadsmodell som medfører kr 6000 fast pr kommune og kr 1,50 pr innbygger. Årlig kostnad blir fordelt etter selvkostprinsippet. Dette betyr at prisen pr. kommune vil gå ned dersom mange nok kommuner melder seg på.
 <br>
 <br>
 <br>

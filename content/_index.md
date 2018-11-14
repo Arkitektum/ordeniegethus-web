@@ -8,8 +8,12 @@ description: "Orden i eget hus - i praksis"
 # Orden i eget hus - i praksis
 
 <!--  la til HTML for å plassere bildet til venstre ![difi trappetrinnsmodell](/images/orden logo.png)  -->
+
+Ønsker din kommune mer informasjon og en kort demonstrasjon av Orden i eget Hus - i praksis? Bli med på et 50 minutters gratis webinar. 
+Ta kontakt med prosjektleder Erling Rønnekleiv, <post@ordeniegethus.no>, telefon +47 99166419 for å avtale tid.
+
+
 <img src ="/images/rollup.png" align="left" alt="Orden i eget hus - i praksis" style="border:20px solid white"></img>
-<br>
 <br>
 <br>
 <br>
@@ -23,6 +27,8 @@ Målet er å få på plass et styringssystem som omfatter applikasjonsarkitektur
 Direktoratet for forvaltning og IKT (difi) har utgitt veilederen "orden i eget hus" med tilhørende modenhetsmodell.
 Prosjektet  tar sikte på å møte mange av utfordringene knyttet til åpne data, publisering av datasett og den nye personvernforordningen fra EU (GDPR).
 
+<br>
+<br>
 <br>
 <br>
 <br>
