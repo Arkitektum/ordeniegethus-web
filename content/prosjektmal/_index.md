@@ -38,6 +38,7 @@ date: 2018-01-26T15:53:32+01:00
 * Kostnadskontroll
 * Delt kommunalt applikasjonsregister
 * Delt nasjonalt datasettregister (felles datakatalog)
+* At kommunen kan skrive GDPR behandlingsprotokoll for datasett med personopplysninger
 <br>
 <br>
 <br>

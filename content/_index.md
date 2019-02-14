@@ -9,8 +9,7 @@ description: "Orden i eget hus - i praksis"
 
 <!--  la til HTML for å plassere bildet til venstre ![difi trappetrinnsmodell](/images/orden logo.png)  -->
 
-Ønsker din kommune mer informasjon og en kort demonstrasjon av Orden i eget Hus - i praksis? Bli med på et 50 minutters gratis webinar. 
-Ta kontakt med prosjektleder Erling Rønnekleiv, <post@ordeniegethus.no> eller telefon +47 99166419 for å avtale tid.
+Ønsker din kommune mer informasjon eller en kort demonstrasjon av Orden i eget hus - i praksis? Kontakt <post@ordeniegethus.no>  eller Erling Rønnekleiv, tlf 99166419.
 
 
 <img src ="/images/rollup.png" align="left" alt="Orden i eget hus - i praksis" style="border:20px solid white"></img>
