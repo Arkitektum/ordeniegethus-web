@@ -10,7 +10,8 @@ Versjon 1.0 ble satt i drift 1. januar 2019. Driftsavtaler for nye kommuner vil 
 
 **Kontaktinfo:** 
 
-Daglig leder Erling Rønnekleiv, Digidrift AS - <post@ordeniegethus.no>, telefon +47 99166419
+Daglig leder Erling Rønnekleiv, Digidrift AS - <post@ordeniegethus.no>, telefon +47 99166419.
+Feilmelding, support eller utviklingsønsker meldes til <support@ordeniegethus.no>
 
 <br>
 <br>
