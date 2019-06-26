@@ -25,7 +25,17 @@ home = [ "HTML", "RSS", "JSON"]
 
 [[menu.shortcuts]]
 pre ="<h3>Lenker</h3>"
-name = "difi - orden i eget hus"
+name = "Difi - orden i eget hus"
 identifier = "ds"
 url = "https://www.difi.no/fagomrader-og-tjenester/digitalisering-og-samordning/nasjonal-arkitektur/informasjonsforvaltning/veileder-orden-i-eget-hus"
 weight = 10
+
+[[menu.shortcuts]]
+name = "Felles datakatalog"
+url = "https://fellesdatakatalog.brreg.no/"
+weight = 11
+
+[[menu.shortcuts]]
+name = "Digitaliseringsstrategien - KMD"
+url = "https://www.regjeringen.no/no/dokumenter/en-digital-offentlig-sektor/id2653874/sec1"
+weight = 12
