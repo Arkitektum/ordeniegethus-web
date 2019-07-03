@@ -18,11 +18,11 @@ men selve registreringsarbeidet krever ikke IKT faglig spisskompetanse - kun en 
  
 **Når** 
 
-Versjon 1.0 av styringssystemet for informasjonsforvaltning (inkludert modul for behandlingsprotokoll - GDPR) ble driftssatt 01.01.2019. Løsningen er fremmet for KS Digifin som kommunal felleskomponent. KS tar stilling til dette i løpet av vinteren.
+Versjon 1.0 av styringssystemet for informasjonsforvaltning (inkludert modul for behandlingsprotokoll - GDPR) ble driftssatt 01.01.2019. 
  
 **Forvaltning**
 
-Eierne har gitt selskapet Digidrift as oppdraget med å spre løsningen til kommuner og forvalte drift, support, opplæring og brukerstøtte. Digidrift organiserer brukerråd for brukerstyring av videreutviklingen. 
+Eierne har gitt selskapet Digidrift AS oppdraget med å spre løsningen til kommuner og forvalte drift, support, opplæring og brukerstøtte. Digidrift organiserer brukerråd for brukerstyring av videreutviklingen. 
 Det blir Digidrift as som gjør driftsavtale med den enkelte kommune som tar løsningen i bruk. Avtaler vil bygge på statens standardavtale SSA-L med tilhørende databehandleravtale. 
 Prismodellen (se linken "meld interesse" til venstre) for fordeling av driftskostnader samt tilkoblingsavgift til videreutvikling er fastsatt av eierne av koden.
 

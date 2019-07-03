@@ -8,7 +8,9 @@ description: "Orden i eget hus - i praksis"
 # Orden i eget hus - i praksis
 
 <!--  la til HTML for å plassere bildet til venstre ![difi trappetrinnsmodell](/images/orden logo.png)  -->
-
+<br>
+3. juli 2019: KommIT-rådet i KS har godkjent en søknad om å videreutvikle og spre løsningen som en felles kommunal komponent eid av kommunene.
+<br>
 Ønsker din kommune mer informasjon eller en kort demonstrasjon av Orden i eget hus - i praksis? Kontakt <post@ordeniegethus.no>  eller Erling Rønnekleiv, tlf 99166419.
 
 
