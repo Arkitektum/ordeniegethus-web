@@ -3,8 +3,9 @@ title: "Eierskap"
 date: 2018-01-25T11:02:47+01:00
 ---
 
- 
-Løsningen er eid av flere kommuner og sikrer god informasjonsforvaltning.
+
+KommIT-rådet i KS har godkjent en søknad om å videreutvikle og spre løsningen som en felles kommunal komponent eid av kommunene. Planleggingen av fase 2 starter derfor opp i august 2019 slik at løsningen videreutvikles i tråd med ny offentlig Digitaliseringsstrategi der deling av offentlige data har sterk fokus. 
+
 Løsningen er tilpasset også små og mellomstore kommuners behov og ressurser. Det krever egeninnsats av kommunen i forhold til registrering og kartlegging av applikasjoner og datasett, 
 men selve registreringsarbeidet krever ikke IKT faglig spisskompetanse - kun en kort innføring.
  
