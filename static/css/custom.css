@@ -1,1 +1,5 @@
 h2 { text-transform: none; }
+.news-block {
+	background-color: rgba(32,83,171, 0.1);
+	padding: 20px;
+}
