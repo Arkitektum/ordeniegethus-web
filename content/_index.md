@@ -1,18 +1,27 @@
 ---
 
-title: "Orden i eget hus - i praksis"
-description: "Orden i eget hus - i praksis"
+title: "DigiOrden"
+description: "DigiOrden"
 
 ---
 
-# Orden i eget hus - i praksis
-
 <!--  la til HTML for å plassere bildet til venstre ![difi trappetrinnsmodell](/images/orden logo.png)  -->
+
+<img src ="/images/logoDigiOrden.PNG" align="top" alt="DigiOrden" style="border:20px solid white"></img>
+
 <br>
 <div class="news-block">
-3. juli 2019: KommIT-rådet i KS har godkjent en søknad om å videreutvikle og spre løsningen som en felles kommunal komponent eid av kommunene.
-<br>
-Ønsker din kommune mer informasjon eller en kort demonstrasjon av Orden i eget hus - i praksis? Kontakt <post@ordeniegethus.no>  eller Erling Rønnekleiv, tlf 99166419.
+24. oktober 2019: KommIT-rådet i KS har godkjent en søknad om å videreutvikle og spre løsningen som en felles kommunal komponent eid av kommunene.
+Ønsker din kommune mer informasjon eller en kort demonstrasjon av DigiOrden? 
+Følgende webinarer er satt opp:
+
+* Torsdag 31.oktober kl 1400
+* Onsdag 6.november kl 1000
+* Fredag 15.november kl 0900
+* Fredag 22.november kl 0900
+* Onsdag 27.november kl 1000
+
+Påmeldig: <post@ordeniegethus.no>
 </div>
 
 <img src ="/images/rollup.png" align="left" alt="Orden i eget hus - i praksis" style="border:20px solid white"></img>

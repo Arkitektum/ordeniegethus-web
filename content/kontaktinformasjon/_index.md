@@ -3,7 +3,7 @@ title: "Meld interesse"
 date: 2018-01-25T11:02:47+01:00
 ---
 
-Versjon 1.0 ble satt i drift 1. januar 2019. Driftsavtaler for nye kommuner vil gjelde fra 1. februar 2019 og det er mulig for kommunene å teste løsningen i en demokommune. Er din kommune interessert, ta kontakt.
+Versjon 1.0 ble satt i drift 1. januar 2019. Driftsavtaler for nye kommuner gjelder fra 1. februar 2019 og det er mulig for kommunene å teste løsningen i en demokommune. Er din kommune interessert, ta kontakt.
 
 <img src ="/images/erling_tkas_small.jpg" align="left" alt="Erling Rønnekleiv" style="border:50px solid white"></img>
 

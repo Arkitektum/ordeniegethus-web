@@ -2,63 +2,47 @@
 title: "Mål"
 date: 2018-01-26T15:53:32+01:00
 ---
-<img src ="/images/kommuner Telemark.PNG" align="left" alt="kommuner i Telemark" style="border-style:solid; border-width:0px 20px 0px 0px; border-color:white;"></img>
-<br>
-<br>
-**Styringssystemet gir kommunene mulighet til å:**
 
-* Holde oversikt over alle systemene/applikasjonene som kommunen benytter
-* Kunne svare på hvor dataene ligger når innbyggere spør etter egne data
-* Planlegge sikkerhetssystemer som sikrer bare autorisert tilgang til data
-* Gi ledergruppen faglig underlag for strategiske digitaliseringsinvesteringer
-* Planlegge kommunens bruk av nasjonale offentlige felleskomponenter
-* Stille krav til leverandørene om å tilpasse sine løsninger til kommunens arkitektur og behov
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-*Direktoratet for forvaltning og IKT sin 3-stegs trappetrinnsmodell med tillegg av nivå 0, som er utgangspunktet for Orden i eget Hus - i praksis*
-<img src ="/images/trapp_niva0.png" align="right" alt="Orden i eget hus - i praksis"></img>
+## KS - kommunal felleskomponent
 
-**Det er definert følgende gevinstpotensialer for kommunene som samarbeider om løsningen:**
 
-* Felles datakatalog og applikasjonsregister for mange kommuner
-* Registrering av data bare en gang
-* Prosedyrer for å holde virksomhetens datagrunnlag oppdatert
-* Beskrivelse av datasett og tilgjengelighet
-<br>
 
-**Løsningen er et lederstøtteverktøy og styringssystem som bidrar til:**
+**Målsettinger:**
 
-* Å videreutvikle kommunen digitalt – bedre grunnlag for å planlegge fremtidige behov
-* God informasjonsforvaltning og orden i eget hus
-* Arkitekturkontroll
-* Kostnadskontroll
-* Delt kommunalt applikasjonsregister
-* Delt nasjonalt datasettregister (felles datakatalog)
-* At kommunen kan skrive GDPR behandlingsprotokoll for datasett med personopplysninger
-<br>
-<br>
-<br>
-<br>
-<br>
+* God kommunal informasjonsforvaltning
+* God kommunal applikasjonsforvaltning
+* Forsvarlig dokumentasjon av persondata
+* Forvaltning av arkiv og datasett
+* Deling av offentlige data
+* Strategisk styring av kommunens digitaliseringsarbeid
 
-**Skjermbilde fra løsningen som viser hvordan applikasjoner, datasett og felleskomponenter henger sammen:**
-<img src ="/images/arkitektur.png" align="left" alt="eksempel fra løsningen: Arkitektur"></img>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+<div style="margin-top: 60px; margin-bottom: 60px;">
+	<div style="display: inline-block; min-width: 380px; vertical-align: top;">
+		<p><strong>Gevinster for kommunen:</strong></p>
+		<ul>
+			<li> Utviklet av kommuner for kommuner</li>
+			<li> Felles applikasjonsregister</li>
+			<li> Oversikt over felleskomponenter</li>
+			<li> Lederstøtte - kommunal IKT arkitektur</li>
+			<li> Samarbeid</li>
+		</ul>
+	</div>
+	<div style="font-size:80%; display: inline-block; max-width: 688px;">
+		<img src="/images/trapp_niva0.png" alt="Orden i eget hus - i praksis" style="padding:0 45px; margin: 0;" />
+		<div>
+			Direktoratet for forvaltning og IKT sin 3-stegs trappetrinnsmodell med tillegg av nivå 0, som er utgangspunktet for DigiOrden
+		</div>
+	</div>
+</div>
+
+
+**Gevinster for offentlig sektor**
+
+* Samordne offentlige datasett - stat og kommune
+* Kvalitetssikring ved deling av data
+* Standardisert klassifisering av data
+
 <br>
 <br>
 <br>
