@@ -15,14 +15,16 @@ description: "DigiOrden"
 Ønsker din kommune mer informasjon eller en kort demonstrasjon av DigiOrden? 
 Følgende webinarer er satt opp:
 
-* Torsdag 31.oktober kl 1400
-* Onsdag 6.november kl 1000
-* Fredag 15.november kl 0900
 * Fredag 22.november kl 0900
 * Onsdag 27.november kl 1000
 * Torsdag 5.desember kl 0900
 * Torsdag 12.desember kl 1400
 * Onsdag 18.desember kl 1000
+* Torsdag 9.1.2020 kl 0900
+* Onsdag 15.1.2020 kl 1400
+* Torsdag 23.1.2020 kl 0900
+* Fredag 31.1.2020 kl 1000
+
 
 
 Påmeldig: <post@ordeniegethus.no>
