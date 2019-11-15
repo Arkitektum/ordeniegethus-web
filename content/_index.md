@@ -17,7 +17,7 @@ Følgende webinarer er satt opp:
 
 * Fredag 22.november kl 0900
 * Onsdag 27.november kl 1000
-* Torsdag 5.desember kl 0900
+* Torsdag 6.desember kl 0900
 * Torsdag 12.desember kl 1400
 * Onsdag 18.desember kl 1000
 * Torsdag 9.1.2020 kl 0900
