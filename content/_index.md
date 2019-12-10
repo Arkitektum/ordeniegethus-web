@@ -11,17 +11,17 @@ description: "DigiOrden"
 
 <br>
 <div class="news-block">
-24. oktober 2019: KommIT-rådet i KS har godkjent en søknad om å videreutvikle og spre løsningen som en felles kommunal komponent eid av kommunene.
-Ønsker din kommune mer informasjon eller en kort demonstrasjon av DigiOrden? 
-Følgende webinarer er satt opp:
+DigiOrden er godkjent av KommIT-rådet i KS for videreutvikling og spredning som en felles kommunal komponent eid av kommunene.
+Ønsker din kommune mer informasjon eller en kort demonstrasjon av DigiOrden? Be om egen avtale eller meld dere på åpne webinarer som er satt opp:
 
-* Torsdag 12.desember kl 1400
-* Onsdag 18.desember kl 1000
-* Torsdag 9.1.2020 kl 0900
-* Onsdag 14.1.2020 kl 1400
-* Torsdag 23.1.2020 kl 0900
-* Fredag 31.1.2020 kl 1000
-
+* Onsdag 18. desember 2019 kl 1000
+* Torsdag 9. januar 2020  kl 0900
+* Tirsdag 14.januar 2020 kl 1400
+* Torsdag 23.januar 2020 kl 0900
+* Fredag 31.januar 2020 kl 1000
+* Torsdag 6.februar 2020 kl 0900
+* Torsdag 13.februar 2020 kl 1400
+* Onsdag 19.februar 2020 kl 0900
 
 
 Påmeldig: <post@ordeniegethus.no>
