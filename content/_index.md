@@ -16,7 +16,7 @@ DigiOrden er godkjent av KommIT-rådet i KS for videreutvikling og spredning som
 
 * Onsdag 18. desember 2019 kl 1000
 * Torsdag 9. januar 2020  kl 0900
-* Tirsdag 14.januar 2020 kl 1400
+* Mandag 13.januar 2020 kl 1400
 * Torsdag 23.januar 2020 kl 0900
 * Fredag 31.januar 2020 kl 1000
 * Torsdag 6.februar 2020 kl 0900
