@@ -32,7 +32,7 @@ weight = 10
 
 [[menu.shortcuts]]
 name = "Felles datakatalog"
-url = "https://fellesdatakatalog.brreg.no/"
+url = "https://fellesdatakatalog.digdir.no/"
 weight = 11
 
 [[menu.shortcuts]]

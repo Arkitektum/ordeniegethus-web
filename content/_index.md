@@ -30,7 +30,8 @@ Webinar vår 2020 Normalt 1 times webinar. Avsatt tidsramme 1,5 time
 
 Påmeldig: <post@ordeniegethus.no>
 
-Koronatilpasset opplæring
+Koronatilpasset opplæring.
+
 For kommuner som starter opp med løsningen tilbys det nå fulldigitale opplærings og veiledningspakker som gjør kommunen istand til å involvere sine systemansvarlige i registrering og oppdateringer i løsningen. Og samtidig gi lederne et strategisk verktøy for styring av digitaliseringsprosesser og informasjonsforvaltning i kommunene.
 
 </div>
