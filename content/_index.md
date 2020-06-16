@@ -13,16 +13,23 @@ description: "DigiOrden"
 <div class="news-block">
 DigiOrden er godkjent av KommIT-rådet i KS for videreutvikling og spredning som en felles kommunal komponent eid av kommunene. KS planlegger nå utvikling i en fase 2 samt overtakelse av forvaltningen i løpet av 2020. Det er fullt mulig å komme igang med løsningen nå. Ønsker din kommune mer informasjon eller en kort demonstrasjon av DigiOrden? Be om egen avtale eller meld dere på åpne webinarer.
 
-Webinar vår 2020 Normalt 1 times webinar. Avsatt tidsramme 1,5 time
+Webinar 2020, normalt 1 times webinar. Avsatt tidsramme 1,5 time
 
 
-* 8.mai kl 09:00
-* 13.mai kl 14:00
-* 25.mai kl 14:00
-* 2.juni kl 14:00
-* 12.juni kl 09:00
-* 18.juni kl 14:00
-* 24.juni kl 14:00
+*  18.juni kl 14:00
+*  24.juni kl 14:00
+*  17.august kl 1400
+*  28.august kl 0900
+*  1.september kl 1400
+*  7.september kl 0900
+*  16.september kl 1400
+*  21.september kl 1400
+*  29.september kl 0900
+*  7.oktober kl 1400
+*  16.oktober kl 0900
+*  21.oktober kl 1400
+*  26.oktober kl 1400
+*  29.oktober kl 0900
 
 
 
