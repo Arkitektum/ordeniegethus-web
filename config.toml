@@ -39,3 +39,13 @@ weight = 11
 name = "Digitaliseringsstrategien - KMD"
 url = "https://www.regjeringen.no/no/dokumenter/en-digital-offentlig-sektor/id2653874/sec1"
 weight = 12
+
+[[menu.shortcuts]]
+name = "Nasjonalt ressurssenter for deling av data"
+url = "https://www.digdir.no/digitalisering-og-samordning/nasjonalt-ressurssenter-deling-av-data/1914"
+weight = 13
+
+[[menu.shortcuts]]
+name = "Dataforvaltning og deling i kommunane"
+url = "https://www.regjeringen.no/no/dokumenter/dataforvaltning-og--deling-i-kommunane/id2741610/"
+weight = 14
