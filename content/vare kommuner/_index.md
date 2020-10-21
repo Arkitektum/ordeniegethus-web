@@ -1,9 +1,7 @@
 ---
 title: "Våre kommuner med avtale"
-date: 2018-01-25T11:02:47+01:00
+date: 2020-10-21T11:02:47+01:00
 ---
-
-
 
  
 **Kommuner med avtale om bruk av Digiorden**
