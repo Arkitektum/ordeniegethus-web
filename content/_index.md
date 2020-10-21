@@ -16,12 +16,12 @@ DigiOrden er godkjent av KommIT-rådet i KS for videreutvikling og spredning som
 Webinar 2020, normalt 1 times webinar. Avsatt tidsramme 1,5 time
 
 
-*  29.september kl 0900
-*  7.oktober kl 1400
-*  16.oktober kl 0900
 *  23.oktober kl 0900
 *  26.oktober kl 1400
 *  29.oktober kl 0900
+*  12.november kl 1400
+*  19.november kl 0900
+*  4.desember kl 0900
 
 
 
