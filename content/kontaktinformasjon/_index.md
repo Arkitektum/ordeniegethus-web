@@ -31,23 +31,23 @@ Alle priser er eks. mva.
 <br>
 Ønsker din kommune og komme i gang, signer avtale og send til <post@ordeniegethus.no>
 <br>
-<div class="imgadjust">
+<div class="imgadjust" style="display: flex; justify-content: space-between">
     <a href="/images/ssa.pdf" target=_blank>
         <div style="display: flex; flex-direction: column">
             <div>Last ned SSA-avtale</div>
-            <img width="200px" src ="/images/pdf.png" align="left" alt="Last ned SSA-avtale pdf ikon" style="border:20px solid white"></img>
+            <img style="margin-top: 0" width="200px" src ="/images/pdf.png" align="left" alt="Last ned SSA-avtale pdf ikon" style="border:20px solid white"></img>
          </div>
     </a>
     <a href="/images/Databehandleravtale.pdf" target=_blank>
         <div style="display: flex; flex-direction: column">
             <div>Last ned databehandleravtale</div>
-            <img width="200px" src ="/images/pdf.png" align="left" alt="Last ned databehandleravtale pdf ikon"></img> 
+            <img style="margin-top: 0" width="200px" src ="/images/pdf.png" align="left" alt="Last ned databehandleravtale pdf ikon"></img> 
         </div>  
       </a>
         <a href="/images/Avtale.pdf" target=_blank>
             <div style="display: flex; flex-direction: column">
                 <div>Last ned bilag 1-8</div>
-                <img width="200px" src ="/images/pdf.png" align="left" alt="Last ned bilag 1-8 pdf ikon" style="border:20px solid white"></img>
+                <img style="margin-top: 0" width="200px" src ="/images/pdf.png" align="left" alt="Last ned bilag 1-8 pdf ikon" style="border:20px solid white"></img>
             </div>
         </a>
     
