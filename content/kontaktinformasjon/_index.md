@@ -32,9 +32,25 @@ Alle priser er eks. mva.
 Ønsker din kommune og komme i gang, signer avtale og send til <post@ordeniegethus.no>
 <br>
 <div style="display: flex; justify-content: space-between">
-    <div sryle="display: flex; flex-direction: column"><a href="/images/ssa.pdf" target=_blank><div>Last ned SSA-avtale</div><img width="200px" src ="/images/pdf.png" align="left" alt="Last ned SSA-avtale pdf ikon" style="border:20px solid white"></img></a></div>
-    <div sryle="display: flex; flex-direction: column"><a href="/images/Databehandleravtale.pdf" target=_blank><div>Last ned databehandleravtale</div><a/><img width="200px" src ="/images/pdf.png" align="left" alt="Last ned databehandleravtale pdf ikon" style="border:20px solid white"></img></div>
-    <div sryle="display: flex; flex-direction: column"><a href="/images/Avtale.pdf" target=_blank><div>Last ned bilag 1-8</div><img width="200px" src ="/images/pdf.png" align="left" alt="Last ned bilag 1-8 pdf ikon" style="border:20px solid white"></img></a></div>
+    <a href="/images/ssa.pdf" target=_blank>
+        <div sryle="display: flex; flex-direction: column">
+            <div>Last ned SSA-avtale</div>
+            <img width="200px" src ="/images/pdf.png" align="left" alt="Last ned SSA-avtale pdf ikon" style="border:20px solid white"></img>
+         </div>
+    </a>
+    <a href="/images/Databehandleravtale.pdf" target=_blank>
+        <div style="display: flex; flex-direction: column">
+            <div>Last ned databehandleravtale</div>
+            <img width="200px" src ="/images/pdf.png" align="left" alt="Last ned databehandleravtale pdf ikon" style="border:20px solid white"></img> 
+        </div>  
+      </a>
+        <a href="/images/Avtale.pdf" target=_blank>
+            <div style="display: flex; flex-direction: column">
+                <div>Last ned bilag 1-8</div>
+                <img width="200px" src ="/images/pdf.png" align="left" alt="Last ned bilag 1-8 pdf ikon" style="border:20px solid white"></img>
+            </div>
+        </a>
+    
 </div>
 <br>
 <br>
