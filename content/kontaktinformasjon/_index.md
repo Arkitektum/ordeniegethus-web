@@ -28,11 +28,8 @@ Tilkoblingskostnad nye kommuner:
 <br>
 For å dekke løpende årlig drift av løsningen er det beregnet en foreløpig kostnadsmodell som medfører kr 6000 fast pr kommune og kr 1,50 pr innbygger. Maksimal pris pr. år for hver kommune er satt til kr. 50.000. 
 Alle priser er eks. mva. 
-
-<br>
 <br>
 Ønsker din kommune og komme i gang, signer avtale og send til <post@ordeniegethus.no>
-<br>
 <br>
 <div style="display: flex; justify-content: space-between">
     <div><a href="/images/ssa.pdf" target=_blank>Last ned SSA-avtale<img width="200px" src ="/images/pdf.png" align="left" alt="Last ned SSA-avtale pdf ikon" style="border:20px solid white"></img></a></div>
