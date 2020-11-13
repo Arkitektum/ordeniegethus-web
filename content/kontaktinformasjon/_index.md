@@ -33,7 +33,7 @@ Alle priser er eks. mva.
 <br>
 <div style="display: flex; justify-content: space-between">
     <div><a href="/images/ssa.pdf" target=_blank>Last ned SSA-avtale<img width="200px" src ="/images/pdf.png" align="left" alt="Last ned SSA-avtale pdf ikon" style="border:20px solid white"></img></a></div>
-    <div><a href="/images/databehandleravtale.pdf" target=_blank>Last ned databehandleravtale<a/><img width="200px" src ="/images/pdf.png" align="left" alt="Last ned databehandleravtale pdf ikon" style="border:20px solid white"></img></div>
+    <div><a href="/images/Databehandleravtale.pdf" target=_blank>Last ned databehandleravtale<a/><img width="200px" src ="/images/pdf.png" align="left" alt="Last ned databehandleravtale pdf ikon" style="border:20px solid white"></img></div>
     <div><a href="/images/Avtale.pdf" target=_blank>Last ned bilag 1-8<img width="200px" src ="/images/pdf.png" align="left" alt="Last ned bilag 1-8 pdf ikon" style="border:20px solid white"></img></a></div>
 </div>
 <br>
