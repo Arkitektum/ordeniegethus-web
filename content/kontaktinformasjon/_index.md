@@ -18,7 +18,7 @@ Feilmelding, support eller utviklingsønsker meldes til <support@ordeniegethus.n
 
 Kommunene som eier koden har fastsatt en modell for deling av kostnader med nye kommuner som ønsker å ta løsningen i bruk:
 
-Tilkoblingskostnad nye kommuner (går til videreutvikling av løsningen):
+Tilkoblingskostnad nye kommuner:
 
 
 -Under 5000 innbyggere kr 25 000 <br>
@@ -31,8 +31,14 @@ Alle priser er eks. mva.
 
 <br>
 <br>
+Ønsker din kommune og komme i gang, signer avtale og send til <post@ordeniegethus.no>
 <br>
 <br>
+<div style="display: flex; justify-content: space-between">
+    <div>Last ned SSA-avtale<img src ="/images/pdf.png" align="left" alt="Last ned SSA-avtale pdf ikon" style="border:20px solid white"></img></div>
+    <div>Last ned databehandleravtale<img src ="/images/pdf.png" align="left" alt="Last ned databehandleravtale pdf ikon" style="border:20px solid white"></img></div>
+    <div>Last ned bilag 1-8<img src ="/images/pdf.png" align="left" alt="Last ned bilag 1-8 pdf ikon" style="border:20px solid white"></img></div>
+</div>
 <br>
 <br>
 
